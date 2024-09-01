@@ -10,13 +10,15 @@ I'm Vaibhav Bhardwaj, pursuing a Master's degree in Computer Science and Enginee
   - Implemented Identity & Access Management, Backup Management, and Analytics.
   - Key features: User administration, backup scheduling, and query analytics.
 
-### 🌱 What I'm Learning
+ <!-- ### 🌱 What I'm Learning
 - Advanced algorithms
-- Application development using PyQt6 and Flutter
+- Application development using PyQt6 and Flutter-->
 
 ### 👯 I’m Looking to Collaborate On
 - Open-source Python projects
 - Database management tools
+- Software development
+
 
 ### 💻 My Favorite Languages
 - Java, Python, and SQL
